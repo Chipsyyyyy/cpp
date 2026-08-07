@@ -18,11 +18,6 @@ public:
 };
 
 int main(){
-    // Person myPerson;
-    // myPerson.name = "Maxwell";
-    // myPerson.age = 21;
-    // myPerson.introduce();
-
     Person alice("Alice", 22);
     alice.introduce();
     
